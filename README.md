@@ -27,21 +27,27 @@ I used Microsoft Excel.
 * Step8: Create pivot table for each question.
 * Step9: Create charts for each pivot tables created to show analysis.
 * Step10: Show the total sales in a textbox.
+* 
 ![Screenshot (3)](https://github.com/user-attachments/assets/dbb7e995-1bab-4a3c-8f80-791f5e41cb77)
 
 * Step11: Show the total number of managers for each year.
+* 
 ![Screenshot (6)](https://github.com/user-attachments/assets/3de066d1-5161-4971-b0ff-cfb24ded56bf)
 
 * Step12: Show the total suburb(areas) for each year.
+* 
 ![Screenshot (7)](https://github.com/user-attachments/assets/aab9e8ad-66c3-4db9-b099-0a2a12e0b8d9)
 
 * Step13: Show the total categories for each year.
+* 
 ![Screenshot (8)](https://github.com/user-attachments/assets/574d8782-cce6-4f2e-9e00-8bbe7d25414e)
 
 * Step14: show the total buyers for each year.
+* 
 ![Screenshot (9)](https://github.com/user-attachments/assets/dacb1ae7-f787-427d-abba-8367cb222846)
 
 # DASHBOARD ANALYSIS
+
 ![image](https://github.com/user-attachments/assets/43a60bfe-5813-4d63-a18f-14d0bebd2c97)
 
 
